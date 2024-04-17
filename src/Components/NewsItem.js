@@ -11,7 +11,7 @@ export class NewsItem extends Component {
           <img
             src={
               !imageUrl
-                ? "https://0043d976.rocketcdn.me/wp-content/uploads/2024/02/how-to-invest-in-spacex-1.jpg"
+                ? "https://scx1.b-cdn.net/csz/news/800a/2024/internet-can-achieve-q.jpg"
                 : imageUrl
             }
             className="card-img-top"
